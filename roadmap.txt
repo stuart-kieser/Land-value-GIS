@@ -1,0 +1,8 @@
+familiorize with ipyleaflet
+look at alternate options
+
+get a map to a point where it can take data
+find data from property websites and insert
+data points will need a value and location to be plotted
+
+
