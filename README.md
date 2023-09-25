@@ -35,4 +35,4 @@ DATA CLEANING:
 Data is grouped by area and the values are used to create and area value 
 
 DATA VISUALIZATION:
-Region average is collceted and plotted on a per m2 and per average building price. 
+Region average is collected and plotted on a per m2 and per average building price. 
