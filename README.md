@@ -1,4 +1,4 @@
-The following project is WIP. 
+The following project is WIP, and is done purely for demonstrative purposes. 
 
 The program is used to demonstrate a heat map showing the average landvalue per SQM. 
 By webcrawling publically available property data pertaining to a certain area we are able to exptrapolate that value into and average land value per region. where we can develop a valuation map to visually depict economic data that we would want.
@@ -27,9 +27,7 @@ Modules:
 ipyleaflet
 
 DATA COLLECTION:
-Data is collected for every area in gauteng, and sorted into their general area per csv
-
-by looking at p24 when under gauteng all the prop listings for the area are shown to a rough total of 50000
+Data is collected for every area in South Africa using a web crawler. 
 
 DATA CLEANING:
 Data is grouped by area and the values are used to create and area value 
