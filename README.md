@@ -1,7 +1,7 @@
-The following project is WIP, and is done purely for demonstrative purposes. 
+The following project is WIP, and is done purely for demonstrative/educational purposes. 
 
 The program is used to demonstrate a heat map showing the average landvalue per SQM. 
-By webcrawling publically available property data pertaining to a certain area we are able to exptrapolate that value into and average land value per region. where we can develop a valuation map to visually depict economic data that we would want.
+By webcrawling publically available property data pertaining to a certain area we are able to extrapolate that value into and average land value per region. where we can develop a valuation map to visually depict economic data that we would want.
 
 Property consists of attributes; location Street address --> (co-ordinates), price, area.
 these attriutes need to be revalued to the heat map intensity scales, this can be done with maximum land value and minimum land value per SQM. 
@@ -14,7 +14,7 @@ Property attributes and market attributes define characteristics of the valuatio
 Converting street address into co-ordinates is done with the Bing Maps api. 
 
 The csv file has the property data: location and price, the location is plugged into the the address tab and the price into the price catagory. 
-The intensity should be auto calculated, maybe set to the standard deviation of the data set. 
+The intensity should be auto calculated, set to the standard deviation of the data set. 
 
 NOTES:
 Web crawl for property data, format data
