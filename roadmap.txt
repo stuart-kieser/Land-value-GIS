@@ -1,8 +1,12 @@
-familiorize with ipyleaflet
+familiarize with ipyleaflet
 look at alternate options
 
 get a map to a point where it can take data
 find data from property websites and insert
 data points will need a value and location to be plotted
 
+land value per m2
 
+split areas up by name, take all prices from name format into list. 
+find area per province. 
+max price / area ?
