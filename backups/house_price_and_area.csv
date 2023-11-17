@@ -1,201 +1,756 @@
-640000,53
-980850,74
-999900,40
-2199000,121
-790000,40
-950000,71
-1350000,83
-700000,43
-450000,78
-560000,26
-599000,97
-1985000,77
-585000,90
-1050000,58
-1050000,100
-299000,81
-295000,107
-750000,62
-710000,67
-1195000,126
-775000,44
-299000,112
-580000,82
-490000,104
-1250000,89
-1050000,74
-680000,55
-390000,101
-784875,109
-598000,101
-800000,66
-769990,75
-300000,104
-500000,93
-1620000,65
-1050000,34
-859900,96
-410000,64
-360000,83
-1950000,72
-665000,83
-1700000,60
-761000,56
-1985000,84
-655000,88
-640000,83
-750000,68
-650000,68
-899000,107
-395000,78
-785000,82
-410000,78
-1680000,108
-899000,91
-6200,79
-499000,68
-320000,65
-899000,72
-1059000,90
-1400000,65
-761000,50
-599000,64
-1041780,95
-750000,110
-1000000,61
-1050000,131
-570000,74
-1200000,62
-850000,70
-1067000,137
-920000,91
-1400000,75
-1020000,65
-320000,74
-560000,118
-669000,126
-1622000,95
-520000,40
-1749000,123
-810000,58
-1399000,64
-485000,81
-580000,57
-660000,70
-630000,44
-950000,75
-800000,58
-729000,77
-565000,67
-1330000,41
-820000,65
-1750000,88
-630000,61
-1200000,104
-3199900,65
-1850000,59
-655000,66
-550000,96
-640000,68
-550000,98
-725000,60
-750000,74
-740000,76
-395000,50
-1350000,65
-1620000,75
-1800000,64
-680000,54
-875000,77
-960000,65
-500000,80
-1000000,81
-570000,95
-1450000,40
-485000,70
-900000,50
-365000,71
-890000,90
-850000,140
-800000,92
-2050000,52
-765000,97
-640000,69
-999900,135
-3100000,67
-730000,49
-340000,55
-1200000,58
-769990,83
-2000000,101
-475000,132
-859900,36
-623000,71
-870000,70
-800000,65
-590000,104
-900000,85
-1050000,53
-790000,124
-900000,60
-500000,40
-655000,65
-645000,80
-1050,81
-960000,101
-655000,116
-2195000,113
-830000,40
-1600000,97
-749900,82
-528000,65
-1300000,65
-460000,74
-1449000,55
-630000,74
-820000,53
-850000,93
-1099900,78
-1199900,49
-720000,49
-1350000,107
-485000,34
-3900000,51
-685000,82
-1199000,134
-330000,54
-705000,83
-490000,84
-499000,45
-720000,68
-680000,62
-1250000,75
-365000,84
-640000,101
-1149000,97
-900000,107
-560000,78
-1180000,42
-1950000,93
-680000,61
-560000,49
-799000,92
-569000,83
-1260000,107
-550000,65
-1985000,55
-390000,112
-490000,53
-598000,65
-780000,78
-699000,48
-685000,66
-730000,139
-920000,39
-820000,104
-1485000,76
-490000,85
-1850000,70
-1050000,26
-0,134
-800000,89
+price,area,location
+
+1020000,61,Erand Gardens
+
+1500000,92,Bergbron
+
+949000,99,Montana
+
+500000,49,Oakdene
+
+460000,40,Bardene
+
+630000,83,Pretoria West
+
+490000,80,Lindhaven
+
+860000,84,Rivonia
+
+760000,69,Bryanston
+
+460000,65,Paulshof
+
+600000,113,Elsburg
+
+1020000,84,Eye Of Africa Estate
+
+1195000,78,Pretoria North
+
+1390000,68,Roodekrans
+
+745000,55,Zwartkop Golf Estate
+
+1190000,92,Eye Of Africa Estate
+
+1300000,93,Bloubosrand
+
+3500000,72,Bryanston
+
+750000,159,Annlin
+
+1250000,66,Menlo Park
+
+665000,114,Berea
+
+799000,62,Douglasdale
+
+1850000,51,Vanderbijlpark CW 3
+
+835000,48,Daspoort
+
+835000,104,New Redruth
+
+550000,96,Verwoerdpark
+
+465000,90,Sagewood
+
+470000,70,Blue Hills
+
+750000,49,Rensburg
+
+410000,74,Carlswald
+
+550000,46,Sandton Central
+
+695000,97,Arcadia
+
+780000,72,Wilgeheuwel
+
+2500000,103,Hyde Park
+
+750000,71,Douglasdale
+
+1295000,110,Florida
+
+735000,55,Dainfern
+
+700000,134,Jukskei Park
+
+1700000,133,Eden Glen
+
+899000,100,Arcadia
+
+825000,88,Edenburg
+
+1490000,87,Crowthorne AH
+
+1050000,496,Greenstone Hill
+
+910000,104,Illovo
+
+380000,123,Noordwyk
+
+2650000,73,Winchester Hills
+
+1352000,80,Jackal Creek Golf Estate
+
+564590,300,Bryanston West
+
+835000,92,Rynfield
+
+1020000,116,Glen Austin AH
+
+970000,101,Edenburg
+
+830000,83,Brentwood
+
+880000,75,Ferndale
+
+850000,54,Wingate Park
+
+1249000,46,Elarduspark
+
+985000,86,Waterkloof Ridge
+
+860000,61,Sandton Central
+
+620000,83,North Riding
+
+730000,41,Paulshof
+
+1250000,63,Bryanston West
+
+499000,75,Dal Fouche
+
+731000,41,Epsom Downs
+
+850000,65,Diepkloof Zone 3
+
+1195000,93,Greenhills
+
+1099000,58,Kempton Park Central
+
+1350000,65,Magalieskruin
+
+291000,82,Edenvale Central
+
+655000,96,Sunnyside
+
+725000,58,Lonehill
+
+1600000,257,Bryanston
+
+850000,97,Hatfield
+
+1199900,79,Clubview
+
+3800000,103,Horizon View
+
+1599000,96,Vorna Valley
+
+2400000,84,Equestria
+
+1150000,116,Sandringham
+
+895000,51,Roodepark Eco Estate
+
+1895000,660,Bassonia
+
+1680000,43,Ferndale
+
+595000,77,Blue Hills
+
+560000,108,Allen's Nek
+
+550000,70,Fourways
+
+600000,71,Morningside
+
+1800000,81,Sunnyside
+
+650000,83,Knysna Central
+
+895000,78,Roodepark Eco Estate
+
+900000,87,Sinoville
+
+120000,119,Montana
+
+550000,342,Alveda
+
+720000,67,Mooikloof Ridge
+
+860000,85,Montana
+
+1149000,89,Sundowner
+
+680000,136,Morningside
+
+1475000,230,Sandown
+
+460000,89,Sandown
+
+1250000,82,Hyde Park
+
+490000,95,La Montagne
+
+1260000,103,Olympus AH
+
+950000,60,Vorna Valley
+
+999000,71,Montana
+
+570000,82,Helderkruin
+
+280000,97,North Riding
+
+680000,72,Northgate
+
+850000,74,Edleen
+
+590000,64,Linden
+
+2294000,53,Edleen
+
+2450000,68,Primrose
+
+0,78,Houghton Estate
+
+699000,153,Jansenpark
+
+550000,66,Alberante
+
+750000,86,Montana
+
+440000,70,Glen Austin AH
+
+650000,114,Glen Austin AH
+
+930000,69,Ormonde
+
+710000,68,Arcadia
+
+390000,76,Houghton Estate
+
+450000,57,Die Hoewes
+
+950000,95,Benoni Central
+
+425000,101,Fairland
+
+2400000,87,Montana
+
+2999900,74,South Crest
+
+2360000,39,Monavoni
+
+2189000,73,Douglasdale
+
+695000,44,Kempton Park Ext 4
+
+1099000,96,Kempton Park Central
+
+650000,107,Verwoerdpark
+
+1100000,72,Winchester Hills
+
+4499000,61,Fairland
+
+345000,72,Dowerglen Ext 4
+
+720000,84,Sunnyside
+
+620000,81,Oakdene
+
+335000,60,Princess AH
+
+500000,85,Moreleta Park
+
+520000,61,Broadacres
+
+1069900,230,Eden Glen
+
+3090000,84,Groblerpark
+
+1190000,99,Silverton
+
+999900,135,North Riding
+
+550000,156,Modderfontein
+
+1199900,90,Greenstone Ridge
+
+850000,34,Sandton Central
+
+790000,80,Hurlpark
+
+680000,116,Hyde Park
+
+1242000,117,Parkdene
+
+980000,89,Rynfield
+
+649000,51,Douglasdale
+
+585000,82,Sandown
+
+1050000,151,Montana
+
+420000,67,Mountain View
+
+1100000,84,Paulshof
+
+1900000,82,Linbro Park
+
+0,36,Willow Park Manor
+
+1050000,74,Princess AH
+
+1899000,86,Northcliff
+
+1350000,57,Linden
+
+450000,83,Morningside
+
+859900,81,Krugersrus
+
+575000,82,Sunninghill
+
+800000,65,Edenburg
+
+695000,76,Knysna Central
+
+470000,129,Groblerpark
+
+1195000,72,Moregloed
+
+2395000,36,Willowbrook
+
+699000,68,Elarduspark
+
+640000,56,Parkmore
+
+450000,101,Die Hoewes
+
+320000,80,Jackal Creek Golf Estate
+
+400000,24,Heidelberg Central
+
+1250000,62,Bonaero Park
+
+1320000,71,Summerset
+
+890000,84,Comet
+
+500000,73,Groblerpark
+
+1050000,95,Illovo
+
+950000,84,Fourways
+
+1450000,77,Sunninghill
+
+1350000,67,Magalieskruin
+
+920000,113,Karenpark
+
+865000,84,Morningside
+
+860000,61,Paulshof
+
+0,87,Ormonde
+
+14950000,46,Comet
+
+520000,52,Florida North
+
+1395000,74,Waterfall
+
+445000,84,Knysna Central
+
+2450000,61,Eye Of Africa Estate
+
+900000,43,Benoni North
+
+740000,645,Cheltondale
+
+1450000,69,Kempton Park Ext 2
+
+1100000,129,Winchester Hills
+
+500000,54,Muckleneuk
+
+570000,40,Ferndale
+
+650000,121,Broadacres
+
+1659900,65,Broadacres
+
+920000,111,Heatherview
+
+3100000,103,Kyalami
+
+1250000,84,Witpoortjie
+
+599999,61,Bruma
+
+1990000,72,Houghton Estate
+
+899000,104,Pomona
+
+800000,112,Onderstepoort
+
+1020000,93,Montana
+
+2195000,135,Modderfontein
+
+590000,80,Magalieskruin
+
+865000,48,Rhodesfield
+
+1170000,166,Clubview
+
+420000,40,Brixton
+
+390000,104,Faerie Glen
+
+750000,95,Ferndale
+
+1200000,150,Paulshof
+
+295000,76,Three Rivers
+
+455000,81,Fourways
+
+719000,62,Greenstone Crest
+
+680000,67,North Riding
+
+750000,100,Magalieskruin
+
+499000,149,Verwoerdpark
+
+1395000,207,Pretoria Central
+
+560000,189,Hillcrest
+
+380000,76,Pretoria Gardens
+
+900000,53,Benoni Central
+
+710000,110,Irene
+
+859000,60,Rietfontein
+
+1550000,68,Randhart
+
+623000,66,Greenstone Hill
+
+1890000,50,Halfway Gardens
+
+2450000,99,New Redruth
+
+585000,80,Sunnyside
+
+850000,69,Radiokop
+
+450000,34,Daspoort
+
+700000,104,Pretoria Gardens
+
+685000,87,Sunnyside
+
+1079900,64,Sandown
+
+1235000,40,Muckleneuk
+
+1699000,86,Rhodesfield
+
+520000,90,Parkmore
+
+500000,109,Fleurhof
+
+635000,69,Honeydew Grove
+
+688000,44,Hamberg
+
+1350000,72,Linden
+
+3199900,38,Kyalami
+
+820000,55,Greenstone Ridge
+
+575000,51,Greenstone Crest
+
+820000,83,Sunnyside
+
+999000,114,Sagewood
+
+599000,83,Sandown
+
+650000,48,Northgate
+
+870000,112,Benoni North
+
+1490000,89,Esther Park
+
+580000,74,Sunnyside
+
+3800000,996,Brentwood Park
+
+1250000,49,Silverton
+
+800000,71,Solheim
+
+740000,54,Sunninghill
+
+835000,34,Sandringham
+
+700000,70,Sunnyside
+
+550000,65,Meyerton Central
+
+750000,46,Florida
+
+0,87,Riverside View
+
+1950000,99,Greenstone Ridge
+
+700000,47,New Redruth
+
+2650000,74,Terenure
+
+725000,90,Parktown
+
+850000,70,Bedfordview
+
+525000,52,Monavoni
+
+530000,89,Sunnyside
+
+630000,40,Hyde Park
+
+730000,67,Florida
+
+845000,277,Featherbrooke Hills Retirement Village
+
+1479900,80,Paulshof
+
+1200000,126,Horizon View
+
+590000,71,Alveda
+
+1850000,90,Kew
+
+2189000,84,Arcadia
+
+965000,61,Carlswald
+
+1350000,108,Greenstone Hill
+
+1749000,76,Fourways
+
+750000,92,Six Fountains Residential Estate
+
+1050000,80,Roodekrans
+
+1350000,64,Arcadia
+
+810000,115,Sunnyside
+
+1750000,57,Denlee
+
+859900,107,Florida
+
+850650,115,Paulshof
+
+2500000,65,Clarina
+
+1620000,75,Rivonia
+
+2599000,81,Craigavon
+
+959900,111,Waterfall Heights
+
+380000,69,Maboneng
+
+1200000,48,Melrose
+
+1000000,119,Montgomery Park
+
+960000,74,Magalieskruin
+
+799000,57,Pretoria North
+
+599000,84,Irene
+
+450000,61,Oakdene
+
+1295000,68,Oukraal Estate
+
+450000,99,Sandton Central
+
+860000,58,Randpoort
+
+500000,79,Ridgeway
+
+470000,68,Melrose
+
+485000,240,Doringkloof
+
+1099900,80,North Riding
+
+650000,61,Ruimsig
+
+745000,98,Hyde Park
+
+640000,65,Summerset
+
+649000,68,Sandton Central
+
+580000,184,Wilgeheuwel
+
+1190000,47,Morningside
+
+800000,55,New Doornfontein
+
+799000,61,Wilgeheuwel
+
+800000,175,Mamelodi
+
+975000,68,Riverside View
+
+1260000,56,Raslouw
+
+875000,53,Wapadrand
+
+830000,105,The Reeds
+
+639999,54,Eveleigh
+
+580000,56,Erand Gardens
+
+560000,75,Monavoni
+
+810000,97,Broadacres
+
+850000,76,Sandton Central
+
+695000,125,Moffat View
+
+3500000,65,Arcadia
+
+830000,58,Ferndale
+
+399000,107,Heuwelsig Estate
+
+1985000,88,Ferndale
+
+800000,63,Ferndale
+
+740000,60,Louwlardia
+
+1199000,64,Morningside
+
+1519900,140,Sandown
+
+760000,116,Glenadrienne
+
+1190000,66,Ferndale
+
+565000,48,Noordwyk
+
+590000,75,Melrose North
+
+1350000,87,Theresapark
+
+520000,50,Rosebank
+
+835000,64,Union
+
+750000,41,Waterfall
+
+4499000,92,Morningside
+
+445000,82,Douglasdale
+
+870000,94,Hillbrow
+
+699000,125,Weltevreden Park
+
+1500000,133,Sandton Central
+
+750000,49,Buccleuch
+
+710000,57,Kempton Park Ext 4
+
+695000,48,Florida
+
+899000,62,Sunnyside
+
+460000,74,Noordwyk
+
+899000,111,Pretoria West
+
+250000,74,Ferndale
+
+390000,64,Modderfontein
+
+399000,58,Sandown
+
+1800000,79,Northwold
+
+550000,107,Parkdene
+
+810000,91,Modderfontein
+
+750000,95,Lyndhurst
+
+750000,110,Ormonde
+
+630000,81,Sandringham
+
+2650000,36,Andeon
+
+750000,57,Saxonwold
+
+930000,82,Newtown
+
+950000,82,Yeoville
+
+580000,90,Killarney
+
+999900,74,Hereford Estate
+
+360000,62,Arcon Park
+
+995000,75,North Riding
+
+999000,91,Sandown
+
+760000,44,Morningside
+
+750000,43,Palm Ridge
+
+1200000,75,Dainfern
+
+1795000,93,Sandton Central
+
+450000,12874,Jukskei Park
+
+1600000,82,Montana
+
+800000,59,Parkview
+
+1200000,78,Houghton Estate
+
+660000,60,Theresapark
+
+575000,95,Bedford Gardens
+
+665000,50,Pretoria Central
+
+2395000,80,Magalieskruin
+
+765000,91,Lynnwood Ridge
+
